@@ -1,2 +1,1 @@
-# ArtSite
-Art site to display Art Work 
+TinDog Starting Files
